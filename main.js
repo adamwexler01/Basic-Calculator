@@ -1,5 +1,5 @@
 //Main Interface Of Application
 
-var _ = require("./basic.js");
+var _ = require("./command.js");
 
 _.calculator();
